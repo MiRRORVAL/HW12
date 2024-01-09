@@ -51,7 +51,7 @@
                                 <action selector="addButtonPressed:" destination="W4D-v3-eTe" id="Ri3-fL-kwe"/>
                             </connections>
                         </barButtonItem>
-                        <barButtonItem key="rightBarButtonItem" image="gearshape" catalog="system" style="done" id="U45-DT-k9r">
+                        <barButtonItem key="rightBarButtonItem" image="gearshape" catalog="system" style="done" hidden="YES" id="U45-DT-k9r">
                             <color key="tintColor" red="0.23210355860000001" green="0.2578125" blue="0.23169678569999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             <connections>
                                 <action selector="editButtonPressed:" destination="W4D-v3-eTe" id="mIM-fn-dIA"/>
